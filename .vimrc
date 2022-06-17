@@ -1,2 +1,13 @@
+set relativenumber
+set wrap
+set linebreak
+set smartcase
+set incsearch
+set autoindent
+set hlsearch
 set number
 syntax on
+syntax enable
+colorscheme koehler
+set tabstop=2
+set background=dark
