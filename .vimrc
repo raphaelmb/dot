@@ -8,6 +8,5 @@ set hlsearch
 set number
 syntax on
 syntax enable
-colorscheme koehler
 set tabstop=2
 set background=dark
